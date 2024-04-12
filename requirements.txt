@@ -1,0 +1,10 @@
+
+matplotlib
+pandas
+plotly 
+plotnine
+seaborn
+spacy
+requests
+spacytextblob
+ipykernel
